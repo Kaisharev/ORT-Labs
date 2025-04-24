@@ -1,0 +1,22 @@
+# do run_task_3.do
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+# Start time: 16:33:37 on Nov 23,2024
+# vlog "+acc" -incr -f ./lists/task_3_src_vlog.filelist 
+# -- Compiling module task_3_gate
+# 
+# Top level modules:
+# 	task_3_gate
+# End time: 16:33:37 on Nov 23,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 0
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+# Start time: 16:33:37 on Nov 23,2024
+# vlog -sv "+acc" -incr -define __TASK_3__ -f ./lists/tb.filelist 
+# -- Compiling module logic_gate
+# -- Compiling package top_sv_unit
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 16:33:37 on Nov 23,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

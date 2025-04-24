@@ -1,0 +1,13 @@
+# do run_and.do
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+# Start time: 01:23:37 on Oct 29,2024
+# vlog "+acc" -incr -f ./lists/src_vlog.filelist 
+# ** Error: (vlog-7) Failed to open design unit file "../../../ort-134223/lab_1/hdl/or_gate/or_gate.v" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 01:23:38 on Oct 29,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+# ** Error: /tools/mentor_graphics/Questa_10.7c/questasim/linux_x86_64/vlog failed.
+# Error in macro ./run_and.do line 4
+# /tools/mentor_graphics/Questa_10.7c/questasim/linux_x86_64/vlog failed.
+#     while executing
+# "vlog +acc -incr -f ./lists/src_vlog.filelist"
